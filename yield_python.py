@@ -10,5 +10,5 @@ print(next(lista_pares))
 print(next(lista_pares))
 
 # La funcion solo es llamada cuando se usa next
-# e itera una sola, en este caso solo genera un
-# solo numero par.
+# e itera una sola vez, en este caso solo genera
+# un olo numero par.
